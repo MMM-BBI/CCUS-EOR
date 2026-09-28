@@ -155,15 +155,13 @@ No proprietary data are used.
 
 ```bibtex
 @article{ccus_eor_realoption,
-  title   = {Investment decision analysis of CCUS-EOR projects considering the dynamic
-             evolution of oil displacement efficiency and electricity price uncertainty},
-  author  = {<authors>},
-  journal = {<journal>},
-  year    = {<year>}
+  title   = {Investment decision analysis of CCUS-EOR projects considering oil displacement efficiency and electricity price uncertainty},
+  author  = {...},
+  journal = {...},
+  year    = {...}
 }
 ```
 
-## 9. License and contact
+## 9. Contact
 
-Released under the MIT License (see `LICENSE`) — please adjust if another licence is preferred.
-Questions about the code or the model: <corresponding author e-mail>.
+Questions about the code or the model: <corresponding mzisong@yeah.net>.
